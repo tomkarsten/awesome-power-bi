@@ -2,8 +2,8 @@
 
 :wave: Manually curated collection of resources for Power BI
 
-* [Power BI Books](power-bi-books)
-* [Power BI Blogs](power-bi-blogs)
+* [Power BI Books](#power-bi-books)
+* [Power BI Blogs](#power-bi-blogs)
 
 ## Power BI Books
 
