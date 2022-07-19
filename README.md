@@ -1,9 +1,10 @@
 # Awesome Power BI
 
-:wave: Manually curated collection of resources for Power BI
+:wave: Manually curated collection of resources for Power BI.
 
 * [Power BI Books](#power-bi-books)
 * [Power BI Blogs](#power-bi-blogs)
+* [Power BI Certifications](#power-bi-certifications)
 
 ## Power BI Books
 
@@ -57,3 +58,12 @@
   * https://radacad.com/blog
 * SQLBI Blog
   * https://www.sqlbi.com/articles/
+
+## Power BI Certifications
+
+* Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+  * https://docs.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/
+  * https://docs.microsoft.com/en-us/certifications/exams/pl-300
+* Microsoft Certified: Azure Enterprise Data Analyst Associate (DP-500)
+  * https://docs.microsoft.com/en-us/certifications/azure-enterprise-data-analyst-associate/
+  * https://docs.microsoft.com/en-us/certifications/exams/dp-500
