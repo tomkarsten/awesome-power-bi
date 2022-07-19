@@ -5,6 +5,7 @@
 * [Power BI Books](#power-bi-books)
 * [Power BI Blogs](#power-bi-blogs)
 * [Power BI Certifications](#power-bi-certifications)
+* [Power BI Documentation](#power-bi-documentation)
 
 ## Power BI Books
 
@@ -36,6 +37,8 @@
 
 ## Power BI Blogs
 
+* Official Power BI Blog
+  * https://powerbi.microsoft.com/en-us/blog/
 * BIccountant Blog
   * https://www.thebiccountant.com/
 * Chris Webb's Crossjoin Blog
@@ -52,7 +55,7 @@
   * https://www.nickyvv.com/
 * P3 Adaptive Blog
   * https://p3adaptive.com/blog/
-* PowerBi.tips
+* PowerBi.tips Blog
   * https://powerbi.tips/
 * RADACAD Blog
   * https://radacad.com/blog
@@ -67,3 +70,22 @@
 * Microsoft Certified: Azure Enterprise Data Analyst Associate (DP-500)
   * https://docs.microsoft.com/en-us/certifications/azure-enterprise-data-analyst-associate/
   * https://docs.microsoft.com/en-us/certifications/exams/dp-500
+
+## Power BI Documentation
+
+* Connect to data in Power BI
+  * https://docs.microsoft.com/en-us/power-bi/transform-model/
+* Transform, shape, and model data in Power BI
+  * https://docs.microsoft.com/en-us/power-bi/connect-data/
+* Reports and dashboards in Power BI
+  * https://docs.microsoft.com/en-us/power-bi/create-reports/
+* Visualization with Power BI
+  * https://docs.microsoft.com/en-us/power-bi/developer/visuals/
+* Power BI administration
+  * https://docs.microsoft.com/en-us/power-bi/admin/
+* Collaborate, share, and integrate across products with Power BI
+  * https://docs.microsoft.com/en-us/power-bi/collaborate-share/
+* Troubleshooting in Power BI
+  * https://docs.microsoft.com/en-us/power-bi/troubleshoot/
+* Collaborate, share, and integrate across products with Power BI
+  * https://docs.microsoft.com/en-us/power-bi/collaborate-share/
