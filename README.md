@@ -83,9 +83,16 @@
   * https://docs.microsoft.com/en-us/power-bi/developer/visuals/
 * Power BI administration
   * https://docs.microsoft.com/en-us/power-bi/admin/
-* Collaborate, share, and integrate across products with Power BI
-  * https://docs.microsoft.com/en-us/power-bi/collaborate-share/
+* Power BI enterprise
+  * https://docs.microsoft.com/en-us/power-bi/enterprise/
 * Troubleshooting in Power BI
   * https://docs.microsoft.com/en-us/power-bi/troubleshoot/
 * Collaborate, share, and integrate across products with Power BI
   * https://docs.microsoft.com/en-us/power-bi/collaborate-share/
+* Power BI learning catalog
+  * https://docs.microsoft.com/en-us/power-bi/learning-catalog/
+
+* Power Query documentation
+  * https://docs.microsoft.com/en-us/power-query/
+* Data Analysis Expressions (DAX) documentation
+  * https://docs.microsoft.com/en-us/dax/
