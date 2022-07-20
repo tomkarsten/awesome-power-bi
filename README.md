@@ -6,6 +6,7 @@
 * [Power BI Blogs](#power-bi-blogs)
 * [Power BI Certifications](#power-bi-certifications)
 * [Power BI Documentation](#power-bi-documentation)
+* [Power Query & Dax Documentation](#power-query--dax-documentation)
 
 ## Power BI Books
 
@@ -91,6 +92,8 @@
   * https://docs.microsoft.com/en-us/power-bi/collaborate-share/
 * Power BI learning catalog
   * https://docs.microsoft.com/en-us/power-bi/learning-catalog/
+
+## Power Query & DAX Documentation
 
 * Power Query documentation
   * https://docs.microsoft.com/en-us/power-query/
